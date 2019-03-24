@@ -1,4 +1,9 @@
 My first project in my first company
 It is an australian project
 
+<<<<<<< HEAD
 My future company is Infosys
+=======
+
+- what is my next company?
+>>>>>>> future
